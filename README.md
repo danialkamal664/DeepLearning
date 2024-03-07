@@ -71,8 +71,8 @@ For some programs which have heavy datasets their links are in respective progra
 
 + ### CNN
   CNN stands for Convolutional neural networks. They are used for  image classification tasks.The programs below demonstrate the same.
-  + **Sentiments Analysis** : In this program we are trying to estimate if the mood in the image is happy or sad. This program demonstrates binary classification problem. Program [link](https://github.com/danialkamal664/DeepLearning/blob/main/Convolutional_Neural_Network/planets__identification%20copy.py)
-  + **Planets and Moon Identification** : In this program we are estimating if the used is of a planet or moon. If its a planet then which planet it is. This program demonstrates multi-label classification. Program [link](https://github.com/danialkamal664/DeepLearning/blob/main/Convolutional_Neural_Network/sentiments__analysis.py)
+  + **Sentiments Analysis** : In this program we are trying to estimate if the mood in the image is happy or sad. This program demonstrates binary classification problem. Program [link](https://github.com/danialkamal664/DeepLearning/blob/main/Convolutional_Neural_Network/planets_identification.py)
+  + **Planets and Moon Identification** : In this program we are estimating if the used is of a planet or moon. If its a planet then which planet it is. This program demonstrates multi-label classification. Program [link](https://github.com/danialkamal664/DeepLearning/blob/main/Convolutional_Neural_Network/sentiments_analysis.py)
 
 + ### RNN
   RNN stands for Recurrent Neural network. Uses concept of back propogation which increses the accuracy of the results. They are preferred in the problems such as natural language processing, time series analysis etc.
